@@ -1,0 +1,2 @@
+FLASK_APP=mytodoism
+FLASK_ENV=development

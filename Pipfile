@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.tuna.tsinghua.edu.cn/simple/"
+verify_ssl = true
+name = "pypi"
+
+[dev-packages]
+watchdog = "*"
+httpie = "*"
+selenium = "*"
+
+[packages]
+flask-babel = "*"
+flask-login = "*"
+flask-sqlalchemy = "*"
+flask-wtf = "*"
+python-dotenv = "*"
+flask-cors = "*"
+flask = "*"
+faker = "*"
